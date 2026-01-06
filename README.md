@@ -1,31 +1,27 @@
 <h1 align="center">🏀 Parth Panwar</h1>
-<h3 align="center">Developer by day, hooper by heart</h3>
+<h3 align="center">Data Scientist | Turning Data into Winning Plays</h3>
 
 <p align="center">
-  <b>Position:</b> Full-Stack Developer <br>
-  <b>Playstyle:</b> Fast breaks, clean UI, clutch logic <br>
-  <b>Home Court:</b> GitHub
+  <b>Position:</b> Data Scientist <br>
+  <b>Playstyle:</b> Court vision, predictive models, clutch insights <br>
+  <b>Home Court:</b> Python • SQL • ML
 </p>
 
-## 📊 Player Stats
-- 🏀 Height: 6'0 (in code confidence)
-- ⚡ Speed: Fast learner
-- 🧠 Basketball IQ: High logic, clean architecture
-- 🔥 Clutch Factor: Debugging at 2 AM
+## 📊 Player Profile
+- 🧠 Court Vision: Data Analysis & Pattern Recognition
+- 🎯 Shot Selection: Feature Engineering & Model Tuning
+- 🔥 Clutch Factor: Insights under tight deadlines
+- 📈 Mindset: Decisions backed by data, not guesses
 
-## 🏋️ Training & Skill Set
-<img src="https://skillicons.dev/icons?i=html,css,js,react,node,python,git" />
+## 🏋️ Training Camp
+<img src="https://skillicons.dev/icons?i=python,r,sql,sklearn,tensorflow,pandas,numpy,git" />
 
-- 🎯 Shooting: JavaScript
-- 🛡 Defense: Debugging
-- ⚡ Fast Breaks: React
-- 🧩 Playmaking: Problem Solving
+- 🏀 Shooting: Python, Pandas, NumPy
+- 🧠 Playmaking: EDA, Statistical Analysis
+- 🛡 Defense: Data Cleaning & Validation
+- ⚡ Fast Breaks: Machine Learning Models
+- 📊 Film Study: Data Visualization
 
-
-## 📈 Season Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 <!--
 **parthpanwar/parthpanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
