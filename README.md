@@ -21,7 +21,20 @@
 - 🛡 Defense: Data Cleaning & Validation
 - ⚡ Fast Breaks: Machine Learning Models
 - 📊 Film Study: Data Visualization
+- 
+## 🎯 Current Season
+- 🏀 Building ML models for real-world datasets
+- 📊 Improving feature engineering & model explainability
+- 🧠 Learning advanced statistics & deep learning
 
+## 🤝 Scouting Report
+- 💼 LinkedIn: https://linkedin.com/in/parthpanwar9
+- 🐦 Twitter/X: https://x.com/paarrthenon
+- 📧 Email: parthpawnwar@email.com
+
+## 🏆 Philosophy
+"Great players read the game.  
+Great data scientists read the data."
 
 <!--
 **parthpanwar/parthpanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
