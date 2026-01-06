@@ -14,7 +14,7 @@
 - 📈 Mindset: Decisions backed by data, not guesses
 
 ## 🏋️ Training Camp
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,numpy,tensorflow,sklearn,sql,figma,cpp,c,discord,git,github,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,figma,cpp,c,discord,git,github,postgres&theme=dark)](https://skillicons.dev)
 
 - 🏀 Shooting: Python, Pandas, NumPy
 - 🧠 Playmaking: EDA, Statistical Analysis
