@@ -1,5 +1,5 @@
 <h1 align="center">🏀 Parth Panwar</h1>
-<h3 align="center">Data Scientist | Turning Data into Winning Plays</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="center">
   <b>Position:</b> Data Scientist <br>
@@ -14,6 +14,7 @@
 - 📈 Mindset: Decisions backed by data, not guesses
 
 ## 🏋️ Training Camp
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <img src="https://skillicons.dev/icons?i=python,r,sql,sklearn,tensorflow,pandas,numpy,git" />
 
 - 🏀 Shooting: Python, Pandas, NumPy
@@ -30,7 +31,7 @@
 ## 🤝 Scouting Report
 - 💼 LinkedIn: https://linkedin.com/in/parthpanwar9
 - 🐦 Twitter/X: https://x.com/paarrthenon
-- 📧 Email: parthpawnwar@email.com
+- 📧 Email: parthpawnwar@gmail.com
 
 ## 🏆 Philosophy
 "Great players read the game.  
