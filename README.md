@@ -1,40 +1,56 @@
-<h1 align="center">🏀 Parth Panwar</h1>
-<h3 align="center">Data Scientist</h3>
-
-<p align="center">
+<div align="center">
+<h1>🏀 Parth Panwar</h1>
+<h3>Data Scientist</h3>
+<p>
   <b>Position:</b> Data Scientist <br>
-  <b>Playstyle:</b> Court vision, predictive models, clutch insights <br>
+  <b>Playstyle:</b> Predictive models, clutch insights <br>
   <b>Home Court:</b> Python • SQL • ML
 </p>
+</div>
+---
 
+<div align="center">
 ## 📊 Player Profile
-- 🧠 Court Vision: Data Analysis & Pattern Recognition
-- 🎯 Shot Selection: Feature Engineering & Model Tuning
-- 🔥 Clutch Factor: Insights under tight deadlines
-- 📈 Mindset: Decisions backed by data, not guesses
-
+🧠 <b>Court Vision:</b> Data Analysis & Pattern Recognition  
+🎯 <b>Shot Selection:</b> Feature Engineering & Model Tuning  
+🔥 <b>Clutch Factor:</b> Insights under tight deadlines  
+📈 <b>Mindset:</b> Decisions backed by data, not guesses  
+</div>
+---
+<div align="center">
 ## 🏋️ Training Camp
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,figma,cpp,c,discord,git,github,postgres&theme=dark)](https://skillicons.dev)
-
-- 🏀 Shooting: Python, Pandas, NumPy
-- 🧠 Playmaking: EDA, Statistical Analysis
-- 🛡 Defense: Data Cleaning & Validation
-- ⚡ Fast Breaks: Machine Learning Models
-- 📊 Film Study: Data Visualization
-- 
+🏀 <b>Shooting:</b> Python, Pandas, NumPy  
+🧠 <b>Playmaking:</b> EDA, Statistical Analysis  
+🛡 <b>Defense:</b> Data Cleaning & Validation  
+⚡ <b>Fast Breaks:</b> Machine Learning Models  
+📊 <b>Film Study:</b> Data Visualization  
+</div>
+---
+<div align="center">
 ## 🎯 Current Season
-- 🏀 Building ML models for real-world datasets
-- 📊 Improving feature engineering & model explainability
-- 🧠 Learning advanced statistics & deep learning
+🏀 Building ML models for real-world datasets  
+📊 Improving feature engineering & model explainability  
+🧠 Learning advanced statistics & deep learning  
+</div>
 
+---
+
+<div align="center">
 ## 🤝 Scouting Report
-- 💼 LinkedIn: https://linkedin.com/in/parthpanwar9
-- 🐦 Twitter/X: https://x.com/paarrthenon
-- 📧 Email: parthpawnwar@gmail.com
+💼 <a href="https://linkedin.com/in/parthpanwar9">LinkedIn</a>  
+🐦 <a href="https://x.com/paarrthenon">Twitter / X</a>  
+📧 <a href="mailto:parthpawnwar@gmail.com">parthpawnwar@gmail.com</a>  
+</div>
 
+---
+<div align="center">
 ## 🏆 Philosophy
-"Great players read the game.  
+<i>
+"Great players read the game.<br>
 Great data scientists read the data."
+</i>
+</div>
 
 <!--
 **parthpanwar/parthpanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
